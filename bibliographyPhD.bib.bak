@@ -1,0 +1,1297 @@
+% This file was created with JabRef 2.10b2.
+% Encoding: Cp1252
+
+
+@Article{Acary2010,
+  Title                    = {Implicit Euler numerical scheme and chattering-free implementation of sliding mode systems},
+  Author                   = {Acary, Vincent and Brogliato, Bernard},
+  Journal                  = {Systems \& Control Letters},
+  Year                     = {2010},
+  Number                   = {5},
+  Pages                    = {284--293},
+  Volume                   = {59},
+
+  Publisher                = {Elsevier}
+}
+
+@PhdThesis{ameho2013pilotage,
+  Title                    = {Du pilotage d'une famille de drones {\`a} celui d'un drone hybride via la commande adaptative},
+  Author                   = {Ameho, Yann},
+  School                   = {Toulouse, ISAE},
+  Year                     = {2013}
+}
+
+@InProceedings{Apkarian2010,
+  Title                    = {Nonsmooth mu synthesis},
+  Author                   = {Apkarian, Pierre and Duong Tuan, Hoang},
+  Booktitle                = {11th Int. Conf. Control, Automation, Robotics and Vision},
+  Year                     = {2010},
+
+  File                     = {:/home/jan/Dropbox/UAS/phd/library_docear/Nonsmooth mu synthesis.pdf:PDF},
+  Journal                  = {2010 11th Int. Conf. Control, Automation, Robotics and Vision}
+}
+
+@Article{Apkarian2006,
+  Title                    = {{Nonsmooth H-infinity Synthesis}},
+  Author                   = {P. Apkarian and D. Noll},
+  Journal                  = {IEEE Transactions on Automatic Control},
+  Year                     = {2006},
+  Number                   = {1},
+  Pages                    = {71-86},
+  Volume                   = {51},
+
+  Owner                    = {j.bolting},
+  Timestamp                = {2014.10.10}
+}
+
+@Manual{RobustControlToolboxReference2012b,
+  Title                    = {Matlab 2012b Robust Control Toolbox Reference},
+  Author                   = {Gary Balas and Richard Chiang and Andy Packard and Michael Safonov},
+  Month                    = {September},
+  Organization             = {The Mathworks, Inc,},
+  Year                     = {2012},
+
+  Owner                    = {j.bolting},
+  Timestamp                = {2014.10.10}
+}
+
+@Book{Beard2012,
+  Title                    = {Small Unmanned Aircraft: Theory and Practice},
+  Author                   = {Beard, Randal W. and McLain, Timothy W.},
+  Publisher                = {Princeton University Press},
+  Year                     = {2012},
+
+  Address                  = {Princeton, NJ, USA},
+
+  ISBN                     = {0691149216, 9780691149219}
+}
+
+@Book{beard2012small,
+  Title                    = {Small unmanned aircraft: Theory and practice},
+  Author                   = {Beard, Randal W and McLain, Timothy W},
+  Publisher                = {Princeton University Press},
+  Year                     = {2012}
+}
+
+@InProceedings{bemporad2011decentralized,
+  Title                    = {Decentralized linear time-varying model predictive control of a formation of unmanned aerial vehicles},
+  Author                   = {Bemporad, Alberto and Rocchi, Claudio},
+  Booktitle                = {Decision and Control and European Control Conference (CDC-ECC), 2011 50th IEEE Conference on},
+  Year                     = {2011},
+  Organization             = {IEEE},
+  Pages                    = {7488--7493}
+}
+
+@InProceedings{bencatel2011formation,
+  Title                    = {Formation control with collision avoidance},
+  Author                   = {Bencatel, Ricardo and Faied, Mariam and Sousa, Joao and Girard, Anouck R},
+  Booktitle                = {Decision and Control and European Control Conference (CDC-ECC), 2011 50th IEEE Conference on},
+  Year                     = {2011},
+  Organization             = {IEEE},
+  Pages                    = {591--596}
+}
+
+@Article{Bill1976,
+  Title                    = {Drag reduction by formation movement in spiny lobsters},
+  Author                   = {Bill, Robert G and Herrnkind, William F},
+  Journal                  = {Science},
+  Year                     = {1976},
+  Number                   = {4258},
+  Pages                    = {1146--1148},
+  Volume                   = {193},
+
+  Publisher                = {American Association for the Advancement of Science}
+}
+
+@Article{Blake2004,
+  Title                    = {Comparison of predicted and measured formation flight interference effects},
+  Author                   = {Blake, William and Gingras, David R},
+  Journal                  = {Journal of Aircraft},
+  Year                     = {2004},
+  Number                   = {2},
+  Pages                    = {201--207},
+  Volume                   = {41},
+
+  File                     = {:D\:\\j.bolting\\Dropbox\\UAS\\phd\\library_docear\\Comparison of Predicted and Measured Formation Flight Interference Effects.pdf:PDF},
+  Review                   = {- Two delta wings, 1/ scale, slightly different, 19.812 m/s}
+}
+
+@Book{Blake2004a,
+  Title                    = {UAV aerial refueling-wind tunnel results and comparison with analytical predictions},
+  Author                   = {Blake, William B and Dickes, Edward G and Gingras, David R},
+  Publisher                = {Defense Technical Information Center},
+  Year                     = {2004},
+
+  File                     = {:D\:\\j.bolting\\Dropbox\\UAS\\phd\\library_docear\\UAV aerial refueling-wind tunnel results and comparison with analytical predictions.pdf:PDF},
+  Review                   = {- Similar to work presented by "Comparison of predicted and measured formation flight interference effects"
+- UAV behind KC-135 tanker}
+}
+
+@Article{bloy1994interference,
+  Title                    = {Interference between tanker wing wake with roll-up and receiver aircraft},
+  Author                   = {Bloy, AW and West, MG},
+  Journal                  = {Journal of aircraft},
+  Year                     = {1994},
+  Number                   = {5},
+  Pages                    = {1214--1216},
+  Volume                   = {31}
+}
+
+@Article{Bloy1993,
+  Title                    = {Lateral aerodynamic interference between tanker and receiver in air-to-air refueling},
+  Author                   = {Bloy, AW and West, MG and Lea, KA and Jouma'a, M},
+  Journal                  = {Journal of Aircraft},
+  Year                     = {1993},
+  Number                   = {5},
+  Pages                    = {705--710},
+  Volume                   = {30}
+}
+
+@TechReport{Bolting2013,
+  Title                    = {{A GPS Local - Area Augmentation System for small UAS using consumer - grade single frequency receivers}},
+  Author                   = {Jan Bolting},
+  Institution              = {University of Braunschweig, Institute of Technology},
+  Year                     = {2013},
+  Type                     = {Technical report},
+
+  Owner                    = {j.bolting},
+  Timestamp                = {2015.04.12}
+}
+
+@InProceedings{Bolting2015,
+  Title                    = {{Structured control law design and robustness assessment for the automatic launch of small UAVs}},
+  Author                   = {Jan Bolting and Jean-Marc Biannic and Fran�ois Defay},
+  Booktitle                = {Proceedings of the CEAS EuroGNC conference},
+  Year                     = {2015},
+
+  Owner                    = {j.bolting},
+  Timestamp                = {2014.12.19}
+}
+
+@InProceedings{Bolting2013a,
+  Title                    = {{Differential GPS for small UAS using consumer-grade single-frequency receivers}},
+  Author                   = {Jan Bolting and Francois Defay and Jean-Marc Moschetta},
+  Booktitle                = {Proceedings of the International Conference on Mcro Aerial Vehicles 2013},
+  Year                     = {2013},
+
+  Owner                    = {jan},
+  Timestamp                = {2016.03.23}
+}
+
+@InProceedings{Bolting2016,
+  Title                    = {Discrete Sliding Mode control of small UAS in tight formation flight under information constraints},
+  Author                   = {Jan Bolting and Soheib Fergani and Jean-Marc Biannic and Francois Defay and Martin Stolle},
+  Booktitle                = {submitted to IFAC ACA 2016},
+  Year                     = {2016},
+
+  Owner                    = {jan},
+  Timestamp                = {2016.03.23}
+}
+
+@Article{campa2009simulation,
+  Title                    = {Simulation environment for machine vision based aerial refueling for UAVs},
+  Author                   = {Campa, Giampiero and Napolitano, Marcello R and Fravolini, Mario L},
+  Journal                  = {Aerospace and Electronic Systems, IEEE Transactions on},
+  Year                     = {2009},
+  Number                   = {1},
+  Pages                    = {138--151},
+  Volume                   = {45},
+
+  Publisher                = {IEEE},
+  Review                   = {- experimental data for induced aerodynamic coefficients have been integrated into Simulink as lookup tables}
+}
+
+@PhdThesis{Christen1999,
+  Title                    = {Engineering aspects of $H_{\inf}$ Control},
+  Author                   = {Urs Christen},
+  School                   = {ETH},
+  Year                     = {1999},
+
+  Owner                    = {j.bolting},
+  Timestamp                = {2014.07.10}
+}
+
+@InCollection{Civita2002,
+  Title                    = {{Design and Flight Testing of a High-Bandwidth H-infinity Loop Shaping Controller for a Robotic Helicopter}},
+  Author                   = {Civita, Marco La and Papageorgiou, George and Messner, William and Kanade, Takeo},
+  Booktitle                = {Guidance, Navigation, and Control and Co-located Conferences},
+  Publisher                = {American Institute of Aeronautics and Astronautics},
+  Year                     = {2002},
+  Month                    = {\#aug\#},
+  Pages                    = {--},
+
+  Comment                  = {doi:10.2514/6.2002-4836},
+  Doi                      = {10.2514/6.2002-4836},
+  Url                      = {http://dx.doi.org/10.2514/6.2002-4836}
+}
+
+@InProceedings{Crump2002,
+  Title                    = {An autonomous control technique for launching ship based Unmanned Aerial Vehicles ({UAVs}) in extreme conditions},
+  Author                   = {M.R. Crump and C. Bil},
+  Booktitle                = {{Proceedings of the 23rd International Congress of Aeronautical Sciences}},
+  Year                     = {2002},
+
+  Owner                    = {j.bolting},
+  Timestamp                = {2014.10.13}
+}
+
+@TechReport{curtis2003fuzzy,
+  Title                    = {A Fuzzy Technique for Performing Lateral-Axis Formation Flight Navigation Using Wingtip Vortices},
+  Author                   = {Curtis, EH},
+  Institution              = {NASA TM-2003-212033},
+  Year                     = {2003}
+}
+
+@Misc{Diebel2006,
+  Title                    = {Representing Attitude: Euler Angles, Unit Quaternions, and Rotation Vectors},
+
+  Author                   = {James Diebel},
+  Year                     = {2006}
+}
+
+@InProceedings{ding2012multi,
+  Title                    = {A multi-UAV tight formation flight controller},
+  Author                   = {Ding, Ji and Fan, Qiongjian},
+  Booktitle                = {Computer Science and Automation Engineering (CSAE), 2012 IEEE International Conference on},
+  Year                     = {2012},
+  Organization             = {IEEE},
+  Pages                    = {60--64},
+  Volume                   = {1}
+}
+
+@InProceedings{Dogan2008b,
+  Title                    = {Wake-Vortex Induced Wind with Turbulence in Aerial Refueling�Part B: Model and Simulation Validation},
+  Author                   = {Dogan, Atilla and Lewis, Timothy A and Blake, William},
+  Booktitle                = {AIAA Atmospheric Flight Mechanics Conference and Exhibit},
+  Year                     = {2008},
+  Pages                    = {6697}
+}
+
+@Article{dogan2008flight,
+  Title                    = {Flight data analysis and simulation of wind effects during aerial refueling},
+  Author                   = {Dogan, Atilla and Lewis, Timothy A and Blake, William},
+  Journal                  = {Journal of Aircraft},
+  Year                     = {2008},
+  Number                   = {6},
+  Pages                    = {2036--2048},
+  Volume                   = {45},
+
+  Review                   = {Based on
+"Wake-vortex induced wind with turbulence in aerial refueling�part A: Flight data analysis"
+and
+"Wake-Vortex Induced Wind with Turbulence in Aerial Refueling�Part B: Model and Simulation Validation", both Dogan et al.}
+}
+
+@InProceedings{Dogan2008a,
+  Title                    = {Wake-vortex induced wind with turbulence in aerial refueling�part A: Flight data analysis},
+  Author                   = {Dogan, Atilla and Lewis, Timothy and Blake, William},
+  Booktitle                = {AIAA Atmospheric Flight Mechanics Conference and Exhibit},
+  Year                     = {2008},
+  Pages                    = {6696}
+}
+
+@Article{dogan2005modeling,
+  Title                    = {Modeling of aerodynamic coupling between aircraft in close proximity},
+  Author                   = {Dogan, Atilla and Venkataramanan, Sriram and Blake, William},
+  Journal                  = {Journal of Aircraft},
+  Year                     = {2005},
+  Number                   = {4},
+  Pages                    = {941--955},
+  Volume                   = {42}
+}
+
+@InCollection{Dorobantu2012,
+  Title                    = {H-Infinity Robust Control Design for the NASA AirSTAR Flight Test Vehicle},
+  Author                   = {Dorobantu, Andrei and Murch, Austin and Balas, Gary},
+  Booktitle                = {Aerospace Sciences Meetings},
+  Publisher                = {American Institute of Aeronautics and Astronautics},
+  Year                     = {2012},
+  Month                    = {\#jan\#},
+  Pages                    = {--},
+
+  Comment                  = {doi:10.2514/6.2012-1181},
+  Doi                      = {10.2514/6.2012-1181},
+  Url                      = {http://dx.doi.org/10.2514/6.2012-1181}
+}
+
+@Article{driels2004determining,
+  Title                    = {Determining the number of iterations for Monte Carlo simulations of weapon effectiveness},
+  Author                   = {Driels, Morris R and Shin, Young S},
+  Year                     = {2004},
+
+  Publisher                = {Monterey, California. Naval Postgraduate School}
+}
+
+@Article{eyre1998simplified,
+  Title                    = {A Simplified Framework for String Stability Analysis of Automated Vehicles},
+  Author                   = {Eyre, J and Yanakiev, D and Kanellakopoulos, I},
+  Journal                  = {Vehicle System Dynamics},
+  Year                     = {1998},
+  Number                   = {5},
+  Pages                    = {375--405},
+  Volume                   = {30},
+
+  Publisher                = {Taylor \& Francis}
+}
+
+@Article{Fahimi2007,
+  Title                    = {Sliding-mode formation control for underactuated surface vessels},
+  Author                   = {Fahimi, Farbod},
+  Journal                  = {Robotics, IEEE Transactions on},
+  Year                     = {2007},
+  Number                   = {3},
+  Pages                    = {617--622},
+  Volume                   = {23},
+
+  Publisher                = {IEEE}
+}
+
+@InProceedings{ferrara2008sliding,
+  Title                    = {Sliding mode control for urban vehicles platooning},
+  Author                   = {Ferrara, A and Librino, R and Massola, A and Miglietta, M and Vecchio, C},
+  Booktitle                = {Intelligent Vehicles Symposium, 2008 IEEE},
+  Year                     = {2008},
+  Organization             = {IEEE},
+  Pages                    = {877--882}
+}
+
+@Article{Fish1994,
+  Title                    = {Energy conservation by formation swimming: metabolic evidence from ducklings},
+  Author                   = {Fish, Frank E},
+  Journal                  = {Mechanics and physiology of animal swimming},
+  Year                     = {1994},
+  Pages                    = {193--204},
+
+  Publisher                = {Cambridge University Press}
+}
+
+@Article{Stein1991,
+  Title                    = {Beyond singular values and loop shapes},
+  Author                   = {G.Stein and J.C. Doyle},
+  Journal                  = {{Journal of Guidance, Control and Dynamics}},
+  Year                     = {1991},
+
+  Owner                    = {j.bolting},
+  Timestamp                = {2014.10.14}
+}
+
+@InProceedings{galzi2006uav,
+  Title                    = {{UAV} formations control using high order sliding modes},
+  Author                   = {Galzi, Damien and Shtessel, Yuri},
+  Booktitle                = {American Control Conference, 2006},
+  Year                     = {2006},
+  Organization             = {IEEE},
+  Pages                    = {6--pp}
+}
+
+@Book{gibbs2005experimental,
+  Title                    = {Experimental determination of lift and lift distributions for wings in formation flight},
+  Author                   = {Gibbs, Jason and Vlachos, Pavlos and Telionis, Demetri},
+  Publisher                = {University Libraries, Virginia Polytechnic Institute and State University},
+  Year                     = {2005}
+}
+
+@InCollection{Gingras1999,
+  Title                    = {Experimental investigation of a multi-aircraft formation},
+  Author                   = {Gingras, David},
+  Booktitle                = {Fluid Dynamics and Co-located Conferences},
+  Publisher                = {American Institute of Aeronautics and Astronautics},
+  Year                     = {1999},
+  Month                    = {\#jun\#},
+  Pages                    = {--},
+
+  Comment                  = {doi:10.2514/6.1999-3143},
+  Doi                      = {10.2514/6.1999-3143},
+  Url                      = {http://dx.doi.org/10.2514/6.1999-3143}
+}
+
+@InProceedings{gingras2001static,
+  Title                    = {Static and dynamic wind tunnel testing of air vehicles in close proximity},
+  Author                   = {Gingras, David R and Player, JL and Blake, William B},
+  Booktitle                = {AIAA Atmospheric Flight Mechanics Conference and Exhibit, Montreal, Canada},
+  Year                     = {2001},
+
+  Review                   = {Presents wind tunnel data of
+- delta-delta configuration
+- cessna-delta configuration}
+}
+
+@Article{giulietti2005dynamic,
+  Title                    = {Dynamic and control issues of formation flight},
+  Author                   = {Giulietti, Fabrizio and Innocenti, Mario and Napolitano, Marcello and Pollini, Lorenzo},
+  Journal                  = {Aerospace Science and Technology},
+  Year                     = {2005},
+  Number                   = {1},
+  Pages                    = {65--71},
+  Volume                   = {9},
+
+  Publisher                = {Elsevier}
+}
+
+@Article{giulietti2000autonomous,
+  Title                    = {Autonomous formation flight},
+  Author                   = {Giulietti, Fabrizio and Pollini, Lorenzo and Innocenti, Mario},
+  Journal                  = {Control Systems, IEEE},
+  Year                     = {2000},
+  Number                   = {6},
+  Pages                    = {34--44},
+  Volume                   = {20},
+
+  Publisher                = {IEEE}
+}
+
+@Article{gu2006design,
+  Title                    = {Design and flight testing evaluation of formation control laws},
+  Author                   = {Gu, Yu and Seanor, Brad and Campa, Giampiero and Napolitano, Marcello R and Rowe, Larry and Gururajan, Srikanth and Wan, Sheng},
+  Journal                  = {Control Systems Technology, IEEE Transactions on},
+  Year                     = {2006},
+  Number                   = {6},
+  Pages                    = {1105--1112},
+  Volume                   = {14},
+
+  Publisher                = {IEEE}
+}
+
+@InProceedings{Hajkarami2010,
+  Title                    = {Unit vector approach based sliding mode control of a small-scale unmanned helicopter},
+  Author                   = {Hajkarami, Hamid and Ahmadi, Mohammad Saleh and Danesh, Mohammad},
+  Booktitle                = {Control and Automation (ICCA), 2010 8th IEEE International Conference on},
+  Year                     = {2010},
+  Organization             = {IEEE},
+  Pages                    = {28--33},
+
+  Review                   = {- sampling frequency 1e3 Hz
+- does not show sliding variables}
+}
+
+@InProceedings{hall2000formation,
+  Title                    = {Formation maneuvers in three dimensions},
+  Author                   = {Hall, James K and Pachter, Meir},
+  Booktitle                = {Decision and Control, 2000. Proceedings of the 39th IEEE Conference on},
+  Year                     = {2000},
+  Organization             = {IEEE},
+  Pages                    = {364--369},
+  Volume                   = {1}
+}
+
+@TechReport{Hanson2002,
+  Title                    = {{An Overview of Flight Test Results for a Formation Flight Autopilot}},
+  Author                   = {Curtis E. Hanson and Jack Ryan and Michael J. Allen and Steven R. Jacobson},
+  Institution              = {NASA},
+  Year                     = {2002},
+
+  Owner                    = {j.bolting},
+  Timestamp                = {2014.12.19}
+}
+
+@InProceedings{hattenberger2006planning,
+  Title                    = {Planning and control for unmanned air vehicle formation flight},
+  Author                   = {Hattenberger, Gautier and Alami, Rachid and Lacroix, Simon},
+  Booktitle                = {Intelligent Robots and Systems, 2006 IEEE/RSJ International Conference on},
+  Year                     = {2006},
+  Organization             = {IEEE},
+  Pages                    = {5931--5936}
+}
+
+@TechReport{hoganson1983study,
+  Title                    = {A Study of the Aerodynamic Interference Effects During Aerial Refueling},
+  Author                   = {Hoganson, EH},
+  Institution              = {DTIC Document},
+  Year                     = {1983}
+}
+
+@Electronic{PCUAVwebsite2015,
+  Title                    = {PCUAV website},
+  Author                   = {http://mercury.kau.ac.kr/park/pcuav.html},
+
+  Owner                    = {j.bolting},
+  Timestamp                = {2014.06.10}
+}
+
+@Article{Hummel1982,
+  Title                    = {Aerodynamic Aspects of Formation Flight in Birds},
+  Author                   = {D. Hummel},
+  Journal                  = {Journal of theoretical Biology},
+  Year                     = {1982},
+
+  Owner                    = {j.bolting},
+  Timestamp                = {2014.12.19}
+}
+
+@InProceedings{hwangbo2007efficient,
+  Title                    = {Efficient two-phase 3d motion planning for small fixed-wing uavs},
+  Author                   = {Hwangbo, Myung and Kuffner, James and Kanade, Takeo},
+  Booktitle                = {Robotics and Automation, 2007 IEEE International Conference on},
+  Year                     = {2007},
+  Organization             = {IEEE},
+  Pages                    = {1035--1041}
+}
+
+@Article{iglesias2002optimum,
+  Title                    = {Optimum spanloads in formation flight},
+  Author                   = {Iglesias, S and Mason, WH},
+  Journal                  = {AIAA paper},
+  Year                     = {2002},
+  Pages                    = {2002},
+  Volume                   = {258}
+}
+
+@TechReport{jake2003f,
+  Title                    = {F/A-18 Performance Beneffts Measured During the Autonomous Formation Flight Project},
+  Author                   = {Jake, V and Ray, R and Ennix, K and Walsh, K},
+  Institution              = {NASA/TM-2002-210732, Sept},
+  Year                     = {2003}
+}
+
+@InProceedings{Jin2003,
+  Title                    = {Stability and performance analysis with double-graph model of vehicle formations},
+  Author                   = {Jin, Zhipu and Murray, Richard M},
+  Booktitle                = {American Control Conference, 2003. Proceedings of the 2003},
+  Year                     = {2003},
+  Organization             = {IEEE},
+  Pages                    = {2223--2228},
+  Volume                   = {3},
+
+  File                     = {:/home/jan/Dropbox/UAS/phd/library_docear/Stability and Performance Analysis with Double-Graph Model of Vehicle Formations.pdf:PDF},
+  Review                   = {- uses blend of leader following and leader following, string stability results of course}
+}
+
+@Article{johnson1974study,
+  Title                    = {Study of control system effectiveness in alleviating vortex wake upsets},
+  Author                   = {Johnson, Walter A and Tepert, Gary L and Rediess, Herman A},
+  Journal                  = {Journal of Aircraft},
+  Year                     = {1974},
+  Number                   = {3},
+  Pages                    = {148--154},
+  Volume                   = {11}
+}
+
+@InProceedings{Jung2007,
+  Title                    = {Modelling and Hardware-in-the-loop Simulation for a Small Unmanned Aerial Vehicle},
+  Author                   = {Dongwon Jung and Panagiotis Tsiotras},
+  Booktitle                = {{AIAA Infotech at Aerospace, Rohnert Park, CA, AIAA Paper 07-2768}},
+  Year                     = {2007},
+  Month                    = {May}
+}
+
+@Article{Jurkovich2011,
+  Title                    = {CFD Prediction of the Flowfield behind the KC-135R Tanker},
+  Author                   = {Jurkovich, Mark S},
+  Journal                  = {AIAA Paper},
+  Year                     = {2011},
+  Pages                    = {2011},
+  Volume                   = {3510}
+}
+
+@InProceedings{kamal2005real,
+  Title                    = {Real time trajectory planning for UAVs using MILP},
+  Author                   = {Kamal, Waseem Ahmed and Gu, Da-Wei and Postlethwaite, Ian},
+  Booktitle                = {Decision and Control, 2005 and 2005 European Control Conference. CDC-ECC'05. 44th IEEE Conference on},
+  Year                     = {2005},
+  Organization             = {IEEE},
+  Pages                    = {3381--3386}
+}
+
+@PhdThesis{knorn2013PhD,
+  Title                    = {A two-dimensional systems stability analysis of vehicle platoons},
+  Author                   = {Knorn, Steffi},
+  School                   = {National University of Ireland Maynooth},
+  Year                     = {2013}
+}
+
+@Article{Knorn2014,
+  Title                    = {Passivity-based control for multi-vehicle systems subject to string constraints},
+  Author                   = {Knorn, Steffi and Donaire, Alejandro and Ag{\"u}ero, Juan C and Middleton, Richard H},
+  Journal                  = {Automatica},
+  Year                     = {2014},
+  Number                   = {12},
+  Pages                    = {3224--3230},
+  Volume                   = {50},
+
+  File                     = {:/home/jan/Dropbox/UAS/phd/library_docear/Passivity-based Control for Multi-Vehicle Systems Subject to String Constraints.pdf:PDF},
+  Publisher                = {Elsevier}
+}
+
+@InProceedings{knorn2013CDC,
+  Title                    = {Two-dimensional analysis of string stability of nonlinear vehicle strings.},
+  Author                   = {Knorn, Steffi and Middleton, Richard H},
+  Booktitle                = {CDC},
+  Year                     = {2013},
+  Pages                    = {5864--5869}
+}
+
+@InProceedings{Lee2010,
+  Title                    = {A benchmarking tool for mav visual pose estimation},
+  Author                   = {Lee, Gim Hee and Achtelik, Markus and Fraundorfer, Friedrich and Pollefeys, Marc and Siegwart, Roland},
+  Booktitle                = {Control Automation Robotics \& Vision (ICARCV), 2010 11th International Conference on},
+  Year                     = {2010},
+  Organization             = {IEEE},
+  Pages                    = {1541--1546},
+
+  File                     = {:../A Benchmarking Tool for MAV Visual Pose Estimation.pdf:PDF}
+}
+
+@PhdThesis{lee2012estimation,
+  Title                    = {Estimation Of Aircraft States And Wind Exposure In Aerial Refueling},
+  Author                   = {Lee, Je Hyeon},
+  Year                     = {2012},
+
+  Publisher                = {Aerospace Engineering}
+}
+
+@Article{Levant2000,
+  Title                    = {Aircraft pitch control via second-order sliding technique},
+  Author                   = {Levant, A and Pridor, A and Gitizadeh, R and Yaesh, I and Ben-Asher, JZ},
+  Journal                  = {Journal of Guidance, Control, and Dynamics},
+  Year                     = {2000},
+  Number                   = {4},
+  Pages                    = {586--594},
+  Volume                   = {23},
+
+  File                     = {:D\:\\j.bolting\\Dropbox\\UAS\\phd\\library_docear\\Aircraft Pitch Control via Second Order Sliding Technique.pdf:PDF}
+}
+
+@InProceedings{Lima2012,
+  Title                    = {Performance Evaluation of Attitude Estimation Algorithms in the Design of an AHRS for Fixed Wing UAVs},
+  Author                   = {Lima, R.R. and Torres, L.A.B.},
+  Booktitle                = {Robotics Symposium and Latin American Robotics Symposium (SBR-LARS), 2012 Brazilian},
+  Year                     = {2012},
+  Month                    = {Oct},
+  Pages                    = {255-260},
+
+  Doi                      = {10.1109/SBR-LARS.2012.61},
+  Keywords                 = {Kalman filters;aerospace components;aerospace control;aerospace instrumentation;autonomous aerial vehicles;microsensors;mobile robots;recursive estimation;telerobotics;AHRS design;EKF;aerial maneuvers;attitude and heading reference system;attitude estimation algorithm;extended Kalman filter;fixed wing UAV;fixed wing unmanned aerial vehicles;intrinsic sensor biases;low cost MEMS sensors;low frequency acceleration signals;microelectromechanical systems;nonlinear complementary filtering;performance evaluation;sensor model;Acceleration;Accelerometers;Estimation;Magnetic sensors;Magnetometers;Mathematical model;AHRS;EKF (Extended Kalman Filter);MEMS sensor;UAV;recursive estimation}
+}
+
+@InProceedings{betterpadeapprox,
+  Title                    = {{Some Remarks on Pade - Approximations}},
+  Author                   = {M.Vajta},
+  Booktitle                = {3rd TEMPUS-INTCOM Symposium},
+  Year                     = {2000},
+  Month                    = {september},
+
+  Owner                    = {j.bolting},
+  Timestamp                = {2014.10.10}
+}
+
+@InProceedings{Magni2002,
+  Title                    = {Presentation of the linear fractional representation toolbox ({LFRT})},
+  Author                   = {Magni, J.-F.},
+  Booktitle                = {Computer Aided Control System Design, 2002. Proceedings. 2002 IEEE International Symposium on},
+  Year                     = {2002},
+  Pages                    = {248-253},
+
+  Doi                      = {10.1109/CACSD.2002.1036962},
+  Keywords                 = {digital simulation;interpolation;object-oriented methods;symbol manipulation;transforms;LFRT;MATLAB;OO approach;discrete values;linear fractional representation toolbox;object-oriented approach;symbolic expressions;Aircraft;Interpolation;MATLAB;Mathematical model;Matrix decomposition;Object oriented modeling;Stability analysis;Uncertain systems;Uncertainty;Web pages}
+}
+
+@Article{mao2008survey,
+  Title                    = {A survey of the dynamics and control of aircraft during aerial refueling},
+  Author                   = {Mao, W and Eke, FO},
+  Journal                  = {Nonlinear dynamics and systems theory},
+  Year                     = {2008},
+  Number                   = {4},
+  Pages                    = {375--388},
+  Volume                   = {8}
+}
+
+@InProceedings{MartinStolle2015,
+  Title                    = {{Vision-based flight Guidance and Navigation System for autonomous cross-country soaring}},
+  Author                   = {Martin Stolle, Jan Bolting, Carsten D�ll, Yoko Watanabe},
+  Booktitle                = {Proceeedings of the ICUAS conference 2015},
+  Year                     = {2015},
+
+  Owner                    = {j.bolting},
+  Timestamp                = {2015.06.02}
+}
+
+@InProceedings{Meng2010,
+  Title                    = {Empirical aerodynamic modeling for robust control design of an oceanographic Uninhabited Aerial Vehicle},
+  Author                   = {Li Meng and Liu Li and Veres, S.M.},
+  Booktitle                = {Electronics and Information Engineering (ICEIE), 2010 International Conference On},
+  Year                     = {2010},
+  Month                    = {Aug},
+  Pages                    = {V2-409-V2-415},
+  Volume                   = {2},
+
+  Doi                      = {10.1109/ICEIE.2010.5559807},
+  Keywords                 = {Kalman filters;Monte Carlo methods;aerospace control;aircraft;control system synthesis;identification;robust control;H-infinity synthesis;Monte-Carlo simulation;Mu synthesis;empirical aerodynamic modeling;linear fractional transformation;nonlinear uncertain dynamics;oceanographic uninhabited aerial vehicle;robust control design;unscented Kalman filter;Aerodynamics;Atmospheric modeling;Mathematical model;Robust control;Robustness;Uncertainty;Unmanned aerial vehicles;Aerodynamic Parameter Estimation;Robust Control;Uncertainty Modeling;Uninhabied Aerial Vehicle (UAV)}
+}
+
+@InProceedings{monsees2001discrete,
+  Title                    = {Discrete-time sliding mode control with a disturbance estimator},
+  Author                   = {Monsees, G and Scherpen, JMA},
+  Booktitle                = {Proceedings of the European Control Conference},
+  Year                     = {2001},
+  Pages                    = {3270--3275}
+}
+
+@Article{Moore2014,
+  Title                    = {Robust post-stall perching with a simple fixed-wing glider using LQR-Trees},
+  Author                   = {Joseph Moore and Rick Cory and Russ Tedrake},
+  Journal                  = {Bioinspiration \& Biomimetics},
+  Year                     = {2014},
+  Number                   = {2},
+  Pages                    = {025013},
+  Volume                   = {9},
+
+  Url                      = {http://stacks.iop.org/1748-3190/9/i=2/a=025013}
+}
+
+@Article{naus2010string,
+  Title                    = {String-stable CACC design and experimental validation: A frequency-domain approach},
+  Author                   = {Naus, Gerrit JL and Vugts, Rene PA and Ploeg, Jeroen and van de Molengraft, Marinus JG and Steinbuch, Maarten},
+  Journal                  = {Vehicular Technology, IEEE Transactions on},
+  Year                     = {2010},
+  Number                   = {9},
+  Pages                    = {4268--4279},
+  Volume                   = {59},
+
+  Publisher                = {IEEE},
+  Review                   = {- Uses time headway
+- Uses feedforward of preceeding vehcles accelration}
+}
+
+@InProceedings{nouveliere2001longitudinal,
+  Title                    = {Longitudinal control of low speed automated vehicles using a second order sliding mode control},
+  Author                   = {Nouveliere, L and Mammar, S and Sainte-Marie, J},
+  Booktitle                = {Intelligent Vehicle Symposium IV2001, Japan},
+  Year                     = {2001}
+}
+
+@Article{pachter2001tight,
+  Title                    = {Tight formation flight control},
+  Author                   = {Pachter, Meir and D', John J and Azzo and Proud, Andrew W},
+  Journal                  = {Journal of Guidance, Control, and Dynamics},
+  Year                     = {2001},
+  Number                   = {2},
+  Pages                    = {246--254},
+  Volume                   = {24}
+}
+
+@Article{Pant2002,
+  Title                    = {Mesh stability of look-ahead interconnected systems},
+  Author                   = {Pant, Aniruddha and Seiler, Pete and Hedrick, Karl},
+  Journal                  = {IEEE Transactions on Automatic Control},
+  Year                     = {2002},
+  Number                   = {2},
+  Pages                    = {403--407},
+  Volume                   = {47},
+
+  Publisher                = {Institute of Electrical and Electronics Engineers}
+}
+
+@InProceedings{Pant2001,
+  Title                    = {Mesh stability of unmanned aerial vehicle clusters},
+  Author                   = {Pant, Aniruddha and Seiler, Pete and Koo, T John and Hedrick, Karl},
+  Booktitle                = {American Control Conference, 2001. Proceedings of the 2001},
+  Year                     = {2001},
+  Organization             = {IEEE},
+  Pages                    = {62--68},
+  Volume                   = {1}
+}
+
+@InProceedings{park2011autonomous,
+  Title                    = {Autonomous Aerobatic Flight by Three-Dimensional Path-Following with Relaxed Roll Constraint},
+  Author                   = {Park, Sanghyuk},
+  Booktitle                = {AIAA Guidance, Navigation, and Control Conference},
+  Year                     = {2011},
+  Pages                    = {6593}
+}
+
+@PhdThesis{Park2004,
+  Title                    = {{Avionics and Control System Development for Mid-Air Rendezvous of Two Unmanned Aerial Vehicles}},
+  Author                   = {Sanghyuk Park},
+  School                   = {MIT},
+  Year                     = {2004},
+
+  Owner                    = {j.bolting},
+  Timestamp                = {2014.10.14}
+}
+
+@PhdThesis{Park2004a,
+  Title                    = {Avionics and control system development for mid-air rendezvous of two unmanned aerial vehicles},
+  Author                   = {Park, Sanghyuk},
+  School                   = {Massachusetts Institute of Technology},
+  Year                     = {2004},
+
+  File                     = {:D\:\\j.bolting\\Dropbox\\UAS\\phd\\library_docear\\Avionics and Control System Development for Mid-Air Rendezvous of Two Unmanned Aerial Vehicles.pdf:PDF}
+}
+
+@InProceedings{park2004new,
+  Title                    = {A new nonlinear guidance logic for trajectory tracking},
+  Author                   = {Park, Sanghyuk and Deyst, John and How, Jonathan P},
+  Booktitle                = {Proceedings of the AIAA Guidance, Navigation and Control Conference},
+  Year                     = {2004},
+  Pages                    = {1--16}
+}
+
+@Book{Peddle2011,
+  Title                    = {Acceleration-based 3D Flight Control for UAVs: Strategy and Longitudinal Design},
+  Author                   = {Peddle, Iain K and Jones, Thomas},
+  Publisher                = {INTECH Open Access Publisher},
+  Year                     = {2011},
+
+  File                     = {:D\:\\j.bolting\\Dropbox\\UAS\\phd\\library_docear\\Acceleration-based 3D Flight Control for UAVs- Strategy and Longitudinal design.pdf:PDF}
+}
+
+@MastersThesis{proud1999close,
+  Title                    = {Close formation flight control},
+  Author                   = {Proud, Andrew W},
+  School                   = {Air force inst of tech wright-patterson AFB School of Engineering},
+  Year                     = {1999}
+}
+
+@InProceedings{ray2002flight,
+  Title                    = {Flight test techniques used to evaluate performance benefits during formation flight},
+  Author                   = {Ray, Ronald J and Cobleigh, Brent R and Vachon, M Jake and StJohn, Clinton},
+  Booktitle                = {NASA CONFERENCE PUBLICATION},
+  Year                     = {2002},
+  Organization             = {NASA; 1998}
+}
+
+@InProceedings{rice2014control,
+  Title                    = {Control performance analysis for autonomous close formation flight experiments},
+  Author                   = {Rice, Caleb and Gu, Yu and Chao, Haiyang and Larrabee, Trenton and Gururajan, Srikanth and Napolitano, Marcello and Mandal, Tanmay and Rhudy, Matthew},
+  Booktitle                = {2014 International Conference on Unmanned Aircraft Systems (ICUAS)},
+  Year                     = {2014}
+}
+
+@PhdThesis{richardson2013quantifying,
+  Title                    = {Quantifying and scaling airplane performance in turbulence},
+  Author                   = {Richardson, Johnhenri R},
+  School                   = {University of Michigan},
+  Year                     = {2013}
+}
+
+@InProceedings{Roos2013,
+  Title                    = {{Systems modeling, analysis and control (SMAC) toolbox: An insight into the robustness analysis library}},
+  Author                   = {Roos, C.},
+  Booktitle                = {Computer Aided Control System Design (CACSD), 2013 IEEE Conference on},
+  Year                     = {2013},
+  Month                    = {Aug},
+  Pages                    = {176-181},
+
+  Doi                      = {10.1109/CACSD.2013.6663479}
+}
+
+@InProceedings{Roos2014,
+  Title                    = {{Polynomial and rational approximation with the APRICOT Library of the SMAC Toolbox}},
+  Author                   = {C. Roos and G. Hardier and J-M. Biannic},
+  Booktitle                = {Proceedings of the IEEE Multiconference on Systems and Control},
+  Year                     = {2014},
+
+  Owner                    = {j.bolting},
+  Timestamp                = {2014.10.14}
+}
+
+@Article{rossow2003use,
+  Title                    = {Use of individual flight corridors to avoid vortex wakes},
+  Author                   = {Rossow, Vernon J},
+  Journal                  = {Journal of aircraft},
+  Year                     = {2003},
+  Number                   = {2},
+  Pages                    = {225--231},
+  Volume                   = {40}
+}
+
+@Article{rossow1995validation,
+  Title                    = {Validation of vortex-lattice method for loads on wings in lift-generated wakes},
+  Author                   = {Rossow, Vernon J},
+  Journal                  = {Journal of aircraft},
+  Year                     = {1995},
+  Number                   = {6},
+  Pages                    = {1254--1262},
+  Volume                   = {32}
+}
+
+@PhdThesis{saban2010wake,
+  Title                    = {Wake Vortex Modelling and Simulation for Air Vehicles in Close Formation Flight},
+  Author                   = {Saban, Deborah},
+  Year                     = {2010},
+
+  Publisher                = {Cranfield University}
+}
+
+@Article{Saban2009,
+  Title                    = {Simulation of Wake Vortex Effects for UAVs in Close Formation Flight},
+  Author                   = {Deborah Saban and James F.Whidborne and Alastair Cooke},
+  Journal                  = {Aeronautical Journal},
+  Year                     = {2009},
+
+  Owner                    = {j.bolting},
+  Timestamp                = {2014.12.19}
+}
+
+@InProceedings{sanchez2003sliding,
+  Title                    = {Sliding mode control for robot formations},
+  Author                   = {Sanchez, Jose and Fierro, Rafael},
+  Booktitle                = {Intelligent Control. 2003 IEEE International Symposium on},
+  Year                     = {2003},
+  Organization             = {IEEE},
+  Pages                    = {438--443}
+}
+
+@Article{Santini,
+  Title                    = {A Consensus-based Approach for Platooning with Inter-Vehicular Communications},
+  Author                   = {Santini, S and Salvi, A and Valente, AS and Pescape, A and Segata, M and Cigno, R Lo},
+
+  File                     = {:/home/jan/Dropbox/UAS/phd/library_docear/A Consensus-based Approach for Platooning with Inter-Vehicular Communications.pdf:PDF}
+}
+
+@Article{Santoso2008,
+  Title                    = {{H2 and H-infinity robust autopilot synthesis for longitudinal flight of a special unmanned aerial vehicle}},
+  Author                   = {F. Santoso and M.Liu and G.Egan},
+  Journal                  = {IET Control Theory and Applications},
+  Year                     = {2008},
+  Number                   = {7},
+  Pages                    = {583 - 594},
+  Volume                   = {2},
+
+  Owner                    = {j.bolting},
+  Timestamp                = {2014.10.13}
+}
+
+@Article{Seiler2004,
+  Title                    = {Disturbance propagation in vehicle strings},
+  Author                   = {Seiler, Peter and Pant, Aniruddha and Hedrick, Karl},
+  Journal                  = {Automatic Control, IEEE Transactions on},
+  Year                     = {2004},
+  Number                   = {10},
+  Pages                    = {1835--1842},
+  Volume                   = {49},
+
+  Publisher                = {IEEE}
+}
+
+@Article{seiler2004disturbance,
+  Title                    = {Disturbance propagation in vehicle strings},
+  Author                   = {Seiler, Pete and Pant, Aniruddha and Hedrick, Karl},
+  Journal                  = {Automatic Control, IEEE Transactions on},
+  Year                     = {2004},
+  Number                   = {10},
+  Pages                    = {1835--1842},
+  Volume                   = {49},
+
+  Publisher                = {IEEE}
+}
+
+@PhdThesis{Seiler2001,
+  Title                    = {Coordinated control of unmanned aerial vehicles},
+  Author                   = {Seiler, Peter Joseph},
+  School                   = {University of California, Berkeley},
+  Year                     = {2001},
+
+  File                     = {:/home/jan/Dropbox/UAS/phd/library_docear/Coordinated Control of Unmanned Aerial Vehicles (PhDTh).pdf:PDF}
+}
+
+@Article{Shah2014,
+  Title                    = {Guidance of air vehicles: a sliding mode approach},
+  Author                   = {Shah, Muhammad Zamurad and Samar, Raza and Bhatti, Aamer Iqbal},
+  Year                     = {2014},
+
+  Publisher                = {IEEE}
+}
+
+@InProceedings{shaw2007controller,
+  Title                    = {Controller design for string stable heterogeneous vehicle strings},
+  Author                   = {Shaw, Elaine and Hedrick, J Karl},
+  Booktitle                = {Decision and Control, 2007 46th IEEE Conference on},
+  Year                     = {2007},
+  Organization             = {IEEE},
+  Pages                    = {2868--2875}
+}
+
+@InProceedings{shaw2007string,
+  Title                    = {String stability analysis for heterogeneous vehicle strings},
+  Author                   = {Shaw, Elaine and Hedrick, J Karl},
+  Booktitle                = {American Control Conference, 2007. ACC'07},
+  Year                     = {2007},
+  Organization             = {IEEE},
+  Pages                    = {3118--3125}
+}
+
+@Book{shtessel2014sliding,
+  Title                    = {Sliding mode control and observation},
+  Author                   = {Shtessel, Yuri and Edwards, Christopher and Fridman, Leonid and Levant, Arie},
+  Publisher                = {Springer},
+  Year                     = {2014}
+}
+
+@InProceedings{singh2001trajectory,
+  Title                    = {Trajectory generation for a UAV in urban terrain, using nonlinear MPC},
+  Author                   = {Singh, Leena and Fuller, James},
+  Booktitle                = {American Control Conference, 2001. Proceedings of the 2001},
+  Year                     = {2001},
+  Organization             = {IEEE},
+  Pages                    = {2301--2308},
+  Volume                   = {3}
+}
+
+@Book{Skogestad2005,
+  Title                    = {Multivariable Feedback Control: Analysis and Design},
+  Author                   = {Skogestad, Sigurd and Postlethwaite, Ian},
+  Publisher                = {John Wiley \& Sons},
+  Year                     = {2005},
+
+  ISBN                     = {0470011688}
+}
+
+@Article{sontag2006exact,
+  Title                    = {Exact computation of amplification for a class of nonlinear systems arising from cellular signaling pathways},
+  Author                   = {Sontag, Eduardo D and Chaves, Madalena},
+  Journal                  = {Automatica},
+  Year                     = {2006},
+  Number                   = {11},
+  Pages                    = {1987--1992},
+  Volume                   = {42},
+
+  Publisher                = {Elsevier}
+}
+
+@Article{sontag2004computation,
+  Title                    = {Computation of amplification for systems arising from cellular signaling pathways},
+  Author                   = {Sontag, Eduardo D and Chaves, Madalena},
+  Journal                  = {arXiv preprint q-bio/0408012},
+  Year                     = {2004},
+
+  Review                   = {- Allows to compute the induced L2 norm of a class of linear systems by computing the Hinf norm of a linear companion system}
+}
+
+@Article{Spurgeon1992,
+  Title                    = {Hyperplane design techniques for discrete-time variable structure control systems},
+  Author                   = {Spurgeon, SK},
+  Journal                  = {International Journal of Control},
+  Year                     = {1992},
+  Number                   = {2},
+  Pages                    = {445--456},
+  Volume                   = {55},
+
+  Publisher                = {Taylor \& Francis}
+}
+
+@Article{Stein1991a,
+  Title                    = {Beyond singular values and loop shapes},
+  Author                   = {Stein, Gunter and Doyle, John C},
+  Journal                  = {Journal of Guidance, Control, and Dynamics},
+  Year                     = {1991},
+  Number                   = {1},
+  Pages                    = {5--16},
+  Volume                   = {14},
+
+  File                     = {:/home/jan/Dropbox/UAS/phd/library_docear/Beyond Singular Values and Loop Shapes (DK iteration original paper).pdf:PDF}
+}
+
+@InProceedings{Stolle2015,
+  Title                    = {A vision-based Flight Guidance and Navigation System for autonomous cross-country soaring UAVs},
+  Author                   = {Stolle, Martin and Bolting, Jan and Doll, Carsten and Watanabe, Yoko},
+  Booktitle                = {Unmanned Aircraft Systems (ICUAS), 2015 International Conference on},
+  Year                     = {2015},
+  Organization             = {IEEE},
+  Pages                    = {109--117}
+}
+
+@Article{Swaroop1997,
+  Title                    = {String stability of interconnected systems: An application to platooning in automated highway systems},
+  Author                   = {Swaroop, DVAHG},
+  Journal                  = {California Partners for Advanced Transit and Highways (PATH)},
+  Year                     = {1997}
+}
+
+@InProceedings{Tenno2012,
+  Title                    = {DESIGN OF ROBUST FLIGHT CONTROL SYSTEM FOR SMALL FIXED-WING UAV},
+  Author                   = {T. Tenno and K. Uchiyama},
+  Booktitle                = {28th Congress of the International Council of the Aeronautical Sciences},
+  Year                     = {2012},
+
+  Owner                    = {j.bolting},
+  Timestamp                = {2014.10.13}
+}
+
+@Article{Theodoulis2015,
+  Title                    = {Robust gain-scheduled autopilot design for spin-stabilized projectiles with a course-correction fuze},
+  Author                   = {Spilios Theodoulis and Florian S�ve and Philippe Wernert},
+  Journal                  = {Aerospace Science and Technology },
+  Year                     = {2015},
+  Number                   = {0},
+  Pages                    = { - },
+
+  Abstract                 = {Abstract This article explores the design of a pitch/yaw axis load factor autopilot for a class of 155-mm spin-stabilized ammunition which incorporates a novel nose-positioned course correction fuze system used for trajectory correction. The projectile full nonlinear model is discussed and a procedure for obtaining the system q-LPV model necessary for control synthesis is exposed. Important properties relevant to axis cross-coupling, internal modes and stability properties specific to this kind of system are also highlighted. A comparison of full- and reduced-order mixed-sensitivity H ∞ linear compensators with an additional model following constraint for the design of the projectile autopilot is presented. Robust stability with respect to aerodynamic and actuator/sensor modeling uncertainties is verified via standard μ-analysis tools throughout the projectile flight envelope. Nonlinear 7-DoF trajectory simulation results are finally presented for a single or dual control surface actuator configuration. },
+  Doi                      = {http://dx.doi.org/10.1016/j.ast.2014.12.027},
+  ISSN                     = {1270-9638},
+  Keywords                 = {Flight mechanics},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S1270963815000115}
+}
+
+@Article{thien2008effects,
+  Title                    = {Effects of leaders position and shape on aerodynamic performances of V flight formation},
+  Author                   = {Thien, HP and Moelyadi, MA and Muhammad, H},
+  Journal                  = {arXiv preprint arXiv:0804.3879},
+  Year                     = {2008}
+}
+
+@Article{thomas2014advances,
+  Title                    = {Advances in air to air refuelling},
+  Author                   = {Thomas, Peter R and Bhandari, Ujjar and Bullock, Steve and Richardson, Thomas S and Du Bois, Jonathan L},
+  Journal                  = {Progress in Aerospace Sciences},
+  Year                     = {2014},
+  Pages                    = {14--35},
+  Volume                   = {71},
+
+  Publisher                = {Elsevier}
+}
+
+@Article{turpin2012trajectory,
+  Title                    = {Trajectory design and control for aggressive formation flight with quadrotors},
+  Author                   = {Turpin, Matthew and Michael, Nathan and Kumar, Vijay},
+  Journal                  = {Autonomous Robots},
+  Year                     = {2012},
+  Number                   = {1-2},
+  Pages                    = {143--156},
+  Volume                   = {33},
+
+  Publisher                = {Springer}
+}
+
+@Book{Vachon2002,
+  Title                    = {F/A-18 aircraft performance benefits measured during the autonomous formation flight project},
+  Author                   = {Vachon, M and Ray, Ronald and Walsh, Kevin and Ennix, Kimberly},
+  Publisher                = {AIAA},
+  Year                     = {2002},
+  Volume                   = {4491}
+}
+
+@InProceedings{venkataramanan2004multi,
+  Title                    = {A multi-UAV simulation for formation reconfiguration},
+  Author                   = {Venkataramanan, Sriram and Dogan, Atilla},
+  Booktitle                = {AIAA Modeling and Simulation Technologies Conference and Exhibit},
+  Year                     = {2004},
+  Pages                    = {16--19}
+}
+
+@Article{Weimerskirch2001,
+  Title                    = {Energy saving in flight formation},
+  Author                   = {Weimerskirch, Henri and Martin, Julien and Clerquin, Yannick and Alexandre, Peggy and Jiraskova, Sarka},
+  Journal                  = {Nature},
+  Year                     = {2001},
+
+  Month                    = {\#oct\#},
+  Number                   = {6857},
+  Pages                    = {697--698},
+  Volume                   = {413},
+
+  Comment                  = {10.1038/35099670},
+  ISSN                     = {0028-0836},
+  Url                      = {http://dx.doi.org/10.1038/35099670}
+}
+
+@Article{Weimerskirch2001a,
+  Title                    = {Energy saving in flight formation},
+  Author                   = {Weimerskirch, Henri and Martin, Julien and Clerquin, Yannick and Alexandre, Peggy and Jiraskova, Sarka},
+  Journal                  = {Nature},
+  Year                     = {2001},
+  Number                   = {6857},
+  Pages                    = {697--698},
+  Volume                   = {413},
+
+  Publisher                = {Nature Publishing Group}
+}
+
+@Article{weimerskirch2001energy,
+  Title                    = {Energy saving in flight formation},
+  Author                   = {Weimerskirch, Henri and Martin, Julien and Clerquin, Yannick and Alexandre, Peggy and Jiraskova, Sarka},
+  Journal                  = {Nature},
+  Year                     = {2001},
+  Number                   = {6857},
+  Pages                    = {697--698},
+  Volume                   = {413},
+
+  Publisher                = {Nature Publishing Group}
+}
+
+@InProceedings{wilson2014vision,
+  Title                    = {A vision based relative navigation framework for formation flight},
+  Author                   = {Wilson, Daniel B and Goktogan, Ali H and Sukkarieh, Salah},
+  Booktitle                = {Robotics and Automation (ICRA), 2014 IEEE International Conference on},
+  Year                     = {2014},
+  Organization             = {IEEE},
+  Pages                    = {4988--4995}
+}
+
+@Article{wolfe1996decentralized,
+  Title                    = {Decentralized controllers for unmanned aerial vehicle formation flight},
+  Author                   = {Wolfe, JD and Chichka, DF and Speyer, JL},
+  Journal                  = {AIAA paper},
+  Year                     = {1996},
+  Pages                    = {96--3833}
+}
+
+@Article{wu2011multi,
+  Title                    = {Multi-objective four-dimensional vehicle motion planning in large dynamic environments},
+  Author                   = {Wu, Paul PY and Campbell, Duncan and Merz, Torsten},
+  Journal                  = {Systems, Man, and Cybernetics, Part B: Cybernetics, IEEE Transactions on},
+  Year                     = {2011},
+  Number                   = {3},
+  Pages                    = {621--634},
+  Volume                   = {41},
+
+  Publisher                = {IEEE}
+}
+
+@Article{yanakiev1996speed,
+  Title                    = {Speed tracking and vehicle follower control design for heavy-duty vehicles},
+  Author                   = {Yanakiev, Diana and Kanellakopoulos, Ioannis},
+  Journal                  = {Vehicle System Dynamics},
+  Year                     = {1996},
+  Number                   = {4},
+  Pages                    = {251--276},
+  Volume                   = {25},
+
+  Publisher                = {Taylor \& Francis}
+}
+
+@InProceedings{Yang2008,
+  Title                    = {{3D smooth path planning for a UAV in cluttered natural environments}},
+  Author                   = {Kwangjin Yang and Sukkarieh, S.},
+  Booktitle                = {Intelligent Robots and Systems, 2008. IROS 2008. IEEE/RSJ International Conference on},
+  Year                     = {2008},
+  Month                    = {Sept},
+  Pages                    = {794-800},
+
+  Doi                      = {10.1109/IROS.2008.4650637},
+  Keywords                 = {aircraft control;computational complexity;mobile robots;path planning;piecewise linear techniques;random processes;remotely operated vehicles;trees (mathematics);3D smooth path planning;Clothoids method;UAV;cluttered natural environments;computational complexity;continuous curvature requirement;cubic Bezier spiral curves;path pruning algorithm;piecewise linear path;rapidly-exploring random trees algorithm;unmanned aerial vehicle;upper bounded curvature constraint;Algorithm design and analysis;Equations;Helicopters;Path planning;Planning;Smoothing methods;Unmanned aerial vehicles}
+}
+
+@Article{zhao2014quadcopter,
+  Title                    = {Quadcopter formation flight control combining MPC and robust feedback linearization},
+  Author                   = {Zhao, Weihua and Go, Tiauw Hiong},
+  Journal                  = {Journal of the Franklin Institute},
+  Year                     = {2014},
+  Number                   = {3},
+  Pages                    = {1335--1355},
+  Volume                   = {351},
+
+  Publisher                = {Elsevier}
+}
+
+@Article{Johanna,
+  Title                    = {{Frontiers of Model Predictive Control: Feedback Linearization and LQ Based Constrained Predictive Control }},
+  Author                   = {Joanna Zietkiewicz},
+  Journal                  = {inTech},
+
+  Owner                    = {j.bolting},
+  Timestamp                = {2014.06.10}
+}
+
+@Article{zou2013distributed,
+  Title                    = {Distributed consensus control for multi-agent systems using terminal sliding mode and Chebyshev neural networks},
+  Author                   = {Zou, An-Min and Kumar, Krishna Dev and Hou, Zeng-Guang},
+  Journal                  = {International Journal of Robust and Nonlinear Control},
+  Year                     = {2013},
+  Number                   = {3},
+  Pages                    = {334--357},
+  Volume                   = {23},
+
+  Publisher                = {Wiley Online Library}
+}
+
