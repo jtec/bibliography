@@ -1408,6 +1408,14 @@ and
   Publisher                = {IEEE}
 }
 
+@InProceedings{XueHornby2012,
+  author =    {Xue, Min and Hornby, Gregory},
+  title =     {An analysis of the potential savings from using formation flight in the NAS},
+  booktitle = {AIAA Guidance, Navigation, and Control Conference, number August},
+  year =      {2012},
+  pages =     {1--12}
+}
+
 @Article{yanakiev1996speed,
   Title                    = {Speed tracking and vehicle follower control design for heavy-duty vehicles},
   Author                   = {Yanakiev, Diana and Kanellakopoulos, Ioannis},
