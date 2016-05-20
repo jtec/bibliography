@@ -52,6 +52,14 @@
   Journal                  = {2010 11th Int. Conf. Control, Automation, Robotics and Vision}
 }
 
+@Misc{ARSENL50UAVS,
+  author =       {Mass Communication Specialist 1st Class Lewis Hunsaker},
+  title =        {{ARSENL Reaches Its Ultimate Goal of 50 Autonomous UAVs in Flight}},
+  howpublished = {online},
+  note =         {pulled may 17 2016},
+  url =          {{http://www.navy.mil/submit/display.asp?story_id=90863}}
+}
+
 @Book{Beard2012,
   Title                    = {Small Unmanned Aircraft: Theory and Practice},
   Author                   = {Beard, Randal W. and McLain, Timothy W.},
@@ -1218,18 +1226,6 @@ and
   Timestamp                = {2014.10.14}
 }
 
-@Article{Stein1991a,
-  Title                    = {Beyond singular values and loop shapes},
-  Author                   = {Stein, Gunter and Doyle, John C},
-  Journal                  = {Journal of Guidance, Control, and Dynamics},
-  Year                     = {1991},
-  Number                   = {1},
-  Pages                    = {5--16},
-  Volume                   = {14},
-
-  File                     = {:/home/jan/Dropbox/UAS/phd/library_docear/Beyond Singular Values and Loop Shapes (DK iteration original paper).pdf:PDF}
-}
-
 @InProceedings{Stolle2015,
   Title                    = {A vision-based Flight Guidance and Navigation System for autonomous cross-country soaring UAVs},
   Author                   = {Stolle, Martin and Bolting, Jan and Doll, Carsten and Watanabe, Yoko},
@@ -1353,30 +1349,6 @@ and
   Comment                  = {10.1038/35099670},
   ISSN                     = {0028-0836},
   Url                      = {http://dx.doi.org/10.1038/35099670}
-}
-
-@Article{Weimerskirch2001a,
-  Title                    = {Energy saving in flight formation},
-  Author                   = {Weimerskirch, Henri and Martin, Julien and Clerquin, Yannick and Alexandre, Peggy and Jiraskova, Sarka},
-  Journal                  = {Nature},
-  Year                     = {2001},
-  Number                   = {6857},
-  Pages                    = {697--698},
-  Volume                   = {413},
-
-  Publisher                = {Nature Publishing Group}
-}
-
-@Article{weimerskirch2001energy,
-  Title                    = {Energy saving in flight formation},
-  Author                   = {Weimerskirch, Henri and Martin, Julien and Clerquin, Yannick and Alexandre, Peggy and Jiraskova, Sarka},
-  Journal                  = {Nature},
-  Year                     = {2001},
-  Number                   = {6857},
-  Pages                    = {697--698},
-  Volume                   = {413},
-
-  Publisher                = {Nature Publishing Group}
 }
 
 @InProceedings{wilson2014vision,
