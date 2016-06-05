@@ -53,7 +53,7 @@
 }
 
 @Misc{ARSENL50UAVS,
-  author =       {Mass Communication Specialist 1st Class Lewis Hunsaker},
+  author =       {Lewis Hunsaker},
   title =        {{ARSENL Reaches Its Ultimate Goal of 50 Autonomous UAVs in Flight}},
   howpublished = {online},
   note =         {pulled may 17 2016},
@@ -207,7 +207,7 @@
 @InProceedings{Bolting2016,
   Title                    = {Discrete Sliding Mode control of small UAS in tight formation flight under information constraints},
   Author                   = {Jan Bolting and Soheib Fergani and Jean-Marc Biannic and Francois Defay and Martin Stolle},
-  Booktitle                = {submitted to IFAC ACA 2016},
+  Booktitle                = {Proceedings of IFAC Symposium on Automatic Control in Aerospace (ACA) 2016},
   Year                     = {2016},
 
   Owner                    = {jan},
@@ -415,6 +415,13 @@ and
   Pages                    = {877--882}
 }
 
+@Misc{ffb,
+  author =       {Jan Bolting},
+  title =        {{Formation Flying Benchmark}},
+  howpublished = {{https://github.com/jtec/ffb}},
+  url =          {{https://github.com/jtec/ffb}}
+}
+
 @Article{Fish1994,
   Title                    = {Energy conservation by formation swimming: metabolic evidence from ducklings},
   Author                   = {Fish, Frank E},
@@ -561,7 +568,7 @@ and
 }
 
 @InProceedings{hwangbo2007efficient,
-  Title                    = {Efficient two-phase 3d motion planning for small fixed-wing uavs},
+  Title                    = {Efficient two-phase motion planning for small fixed-wing uavs},
   Author                   = {Hwangbo, Myung and Kuffner, James and Kanade, Takeo},
   Booktitle                = {Robotics and Automation, 2007 IEEE International Conference on},
   Year                     = {2007},
@@ -740,6 +747,15 @@ and
 
   Doi                      = {10.1109/SBR-LARS.2012.61},
   Keywords                 = {Kalman filters;aerospace components;aerospace control;aerospace instrumentation;autonomous aerial vehicles;microsensors;mobile robots;recursive estimation;telerobotics;AHRS design;EKF;aerial maneuvers;attitude and heading reference system;attitude estimation algorithm;extended Kalman filter;fixed wing UAV;fixed wing unmanned aerial vehicles;intrinsic sensor biases;low cost MEMS sensors;low frequency acceleration signals;microelectromechanical systems;nonlinear complementary filtering;performance evaluation;sensor model;Acceleration;Accelerometers;Estimation;Magnetic sensors;Magnetometers;Mathematical model;AHRS;EKF (Extended Kalman Filter);MEMS sensor;UAV;recursive estimation}
+}
+
+@incollection{looye2011helical,
+  title={Helical Flight Path Trajectories for Autopilot Evaluation},
+  author={Looye, Gertjan},
+  booktitle={Advances in Aerospace Guidance, Navigation and Control},
+  pages={79--90},
+  year={2011},
+  publisher={Springer}
 }
 
 @InProceedings{Magni2002,
@@ -1235,6 +1251,13 @@ and
   Pages                    = {109--117}
 }
 
+@Misc{STRAGE,
+  author =       {Jan Bolting},
+  title =        {{Spline Trajectory Generator library}},
+  howpublished = {{https://github.com/jtec/STRAGE}},
+  url =          {{https://github.com/jtec/STRAGE}}
+}
+
 @Article{Swaroop1997,
   Title                    = {String stability of interconnected systems: An application to platooning in automated highway systems},
   Author                   = {Swaroop, DVAHG},
@@ -1297,6 +1320,20 @@ and
   Publisher                = {Springer}
 }
 
+@Misc{UAV3D,
+  author =       {Jan Bolting},
+  title =        {{UAV3D Visualization environment}},
+  howpublished = {https://github.com/jtec/UAV3D},
+  url =          {https://github.com/jtec/UAV3D}
+}
+
+@Misc{uavsimblockset,
+  author =       {Jan Bolting},
+  title =        {Simulink UAV simulation blockset},
+  howpublished = {{https://github.com/jtec/uavsimblockset}},
+  url =          {{https://github.com/jtec/uavsimblockset}}
+}
+
 @Book{Vachon2002,
   Title                    = {F/A-18 aircraft performance benefits measured during the autonomous formation flight project},
   Author                   = {Vachon, M and Ray, Ronald and Walsh, Kevin and Ennix, Kimberly},
@@ -1341,7 +1378,7 @@ and
   Journal                  = {Nature},
   Year                     = {2001},
 
-  Month                    = {\#oct\#},
+  Month                    = {oct.},
   Number                   = {6857},
   Pages                    = {697--698},
   Volume                   = {413},
