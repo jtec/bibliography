@@ -52,14 +52,16 @@
   Journal                  = {2010 11th Int. Conf. Control, Automation, Robotics and Vision}
 }
 
-@InProceedings{ApkarianDuongTuan2010,
-  author =        {Apkarian, Pierre and Duong Tuan, Hoang},
-  title =         {Nonsmooth H-infinity synthesis},
-  booktitle =     {11th Int. Conf. Control, Automation, Robotics and Vision},
-  year =          {2010},
+@Article{apkarian2011nonsmooth,
+  author =        {Apkarian, Pierre},
+  title =         {Nonsmooth $\mu$-synthesis},
+  journal =       {International Journal of Robust and Nonlinear Control},
+  year =          {2011},
+  volume =        {21},
+  number =        {13},
+  pages =         {1493--1508},
   __markedentry = {[j.bolting:6]},
-  file =          {:/home/jan/Dropbox/UAS/phd/library_docear/Nonsmooth mu synthesis.pdf:PDF},
-  journal =       {2010 11th Int. Conf. Control, Automation, Robotics and Vision}
+  publisher =     {Wiley Online Library}
 }
 
 @Misc{ARSENL50UAVS,
@@ -233,6 +235,14 @@
   Timestamp                = {2016.03.23}
 }
 
+@InProceedings{Bolting2017AIAA,
+  author =    {Bolting, Jan and Fergani, Soheib and Defay, Francois and Stolle, Martin and Biannic, Jean-Marc},
+  title =     {An open benchmark for distributed formation flight control of small UAS},
+  booktitle = {submitted to 2017 AIAA GNC Conference},
+  year =      {2016},
+  volume =    {5569}
+}
+
 @InProceedings{BoskovicLiMehra2002,
   author =       {Bo{\v{s}}kovi{\'c}, Jovan D and Li, Sai-Ming and Mehra, Raman K},
   title =        {Formation flight control design in the presence of unknown leader commands},
@@ -254,6 +264,16 @@
 
   Publisher                = {IEEE},
   Review                   = {- experimental data for induced aerodynamic coefficients have been integrated into Simulink as lookup tables}
+}
+
+@article{cheon2015monocular,
+  title={Monocular Vision-Based Guidance and Control for a Formation Flight},
+  author={Cheon, Bong-kyu and Kim, Jeong-ho and Min, Chan-oh and Han, Dong-in and Cho, Kyeum-rae and Lee, Dae-woo and others},
+  journal={International Journal of Aeronautical and Space Sciences},
+  volume={16},
+  number={4},
+  pages={581--589},
+  year={2015}
 }
 
 @PhdThesis{Christen1999,
@@ -850,16 +870,6 @@ and
   Volume                   = {8}
 }
 
-@InProceedings{MartinStolle2015,
-  author =        {Martin Stolle, Jan Bolting, Carsten D�ll, Yoko Watanabe},
-  title =         {{Vision-based flight Guidance and Navigation System for autonomous cross-country soaring}},
-  booktitle =     {Proceeedings of the ICUAS conference 2015},
-  year =          {2015},
-  __markedentry = {[j.bolting:6]},
-  owner =         {j.bolting},
-  timestamp =     {2015.06.02}
-}
-
 @InProceedings{Meng2010,
   Title                    = {Empirical aerodynamic modeling for robust control design of an oceanographic Uninhabited Aerial Vehicle},
   Author                   = {Li Meng and Liu Li and Veres, S.M.},
@@ -1034,7 +1044,7 @@ and
   File                     = {:D\:\\j.bolting\\Dropbox\\UAS\\phd\\library_docear\\Acceleration-based 3D Flight Control for UAVs- Strategy and Longitudinal design.pdf:PDF}
 }
 
-@Article{PerezJimenezCamacho2010,
+@Article{perez2010robust,
   author =        {P{\'e}rez, Mercedes and Jim{\'e}nez, Emilio and Camacho, Eduardo F},
   title =         {Robust Stability Analysis and Tuning of a Predictive Sliding Mode Controller},
   journal =       {European Journal of Control},
