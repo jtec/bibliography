@@ -243,6 +243,12 @@
   volume =    {5569}
 }
 
+@InProceedings{BoltingFerganiDefayEtAl,
+  author =    {Jan Bolting and Soheib Fergani and Francois Defay and MArtoin Stolle and Jean-Marc Biannic},
+  title =     {An open benchmark for distributed formation flight control of small UAS},
+  booktitle = {accepted for presentation at AIAA GNC conference 2017}
+}
+
 @InProceedings{BoskovicLiMehra2002,
   author =       {Bo{\v{s}}kovi{\'c}, Jovan D and Li, Sai-Ming and Mehra, Raman K},
   title =        {Formation flight control design in the presence of unknown leader commands},
@@ -931,6 +937,17 @@ and
   Author                   = {Nouveliere, L and Mammar, S and Sainte-Marie, J},
   Booktitle                = {Intelligent Vehicle Symposium IV2001, Japan},
   Year                     = {2001}
+}
+
+@article{ohtsuka2004continuation,
+  title={{A continuation/GMRES method for fast computation of nonlinear receding horizon control}},
+  author={Ohtsuka, Toshiyuki},
+  journal={Automatica},
+  volume={40},
+  number={4},
+  pages={563--574},
+  year={2004},
+  publisher={Elsevier}
 }
 
 @InProceedings{OlivaresSolerStaffetti2013,
