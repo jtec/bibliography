@@ -1538,6 +1538,12 @@ and
   Pages                    = {109--117}
 }
 
+@PhdThesis{StollePhD2016,
+  author = {Martin Stolle},
+  title =  {Towards vision-based autonomous cross-country soaring},
+  year =   {2016}
+}
+
 @Misc{STRAGE,
   author =       {Jan Bolting},
   title =        {{Spline Trajectory Generator library}},
@@ -1612,6 +1618,7 @@ and
   author =       {Jan Bolting},
   title =        {{UAV3D Visualization environment}},
   howpublished = {{https://github.com/jtec/UAV3D}},
+  year =         {2016},
   url =          {https://github.com/jtec/UAV3D}
 }
 
@@ -1728,6 +1735,17 @@ and
   author={Yamasaki, Takeshi and Balakrishnan, SN and Takano, Hiroyuki},
   booktitle={Proc of the AIAA Guidance, Navigation, and Control Conference},
   year={2012}
+}
+
+@article{yan2005dynamic,
+  title={Dynamic sliding mode control for a class of systems with mismatched uncertainty},
+  author={Yan, Xing-Gang and Spurgeon, Sarah K and Edwards, Christopher},
+  journal={European Journal of Control},
+  volume={11},
+  number={1},
+  pages={1--10},
+  year={2005},
+  publisher={Elsevier}
 }
 
 @Article{yanakiev1996speed,
