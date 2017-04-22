@@ -1,1 +1,0 @@
-# BibTeX bibliography files for UAS System identification and flight control
